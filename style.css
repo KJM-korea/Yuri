@@ -1,21 +1,22 @@
 a{
-    color: violet;
+    color: orange;
 }
 h1{
   font-size: 45px;
   text-align: center;
-  border-bottom: 1px solid pink;
+  border-bottom: 1px solid white;
   margin: 0px;
   padding: 20px;
 }
 #grid ol {
-  border-right: 1px solid pink;
+  border-right: 1px solid white;
   width: 100px;
   margin: 0;
   padding: 20px;
 }
 body {
   margin: 0px;
+  background-color :pink;
 }
 
 #grid {
@@ -37,7 +38,7 @@ body {
   }
 }
 p{
-  color: pink;
+  color: white;
 }
 h2 {
   color: orange;
